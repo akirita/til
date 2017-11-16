@@ -4,5 +4,6 @@
    >>> str
    'abcdefg'
    >>> str[::-1]
-   'gfedcba'
-```>>>
+   'gfedcba'
+   >>>
+```
